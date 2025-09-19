@@ -1,0 +1,404 @@
+{
+    "Apple___Apple_scab": {
+        "preventive": [
+            "Plant resistant varieties",
+            "Prune trees to improve air circulation"
+        ],
+        "organic": [
+            "Apply sulfur-based sprays",
+            "Neem oil foliar application"
+        ],
+        "chemical": [
+            "Use Captan fungicide as per instructions",
+            "Apply Mancozeb early in the season"
+        ],
+        "notes": "Remove fallen leaves to reduce overwintering spores"
+    },
+    "Apple___Black_rot": {
+        "preventive": [
+            "Remove mummified fruits",
+            "Prune infected branches"
+        ],
+        "organic": [
+            "Neem oil spray",
+            "Compost tea applications"
+        ],
+        "chemical": [
+            "Apply Captan or Thiophanate-methyl fungicides"
+        ],
+        "notes": "Disinfect pruning tools after use"
+    },
+    "Apple___Cedar_apple_rust": {
+        "preventive": [
+            "Avoid planting apples near junipers",
+            "Prune infected galls from cedar trees"
+        ],
+        "organic": [
+            "Sulfur sprays during early season"
+        ],
+        "chemical": [
+            "Myclobutanil fungicide applications"
+        ],
+        "notes": "Best controlled with preventive sprays in early spring"
+    },
+    "Apple___healthy": {
+        "preventive": [
+            "Regular monitoring",
+            "Balanced nutrient management"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Blueberry___healthy": {
+        "preventive": [
+            "Ensure acidic soil pH (4.5\u20135.5)",
+            "Mulch to conserve soil moisture"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "preventive": [
+            "Prune trees to increase airflow",
+            "Avoid overhead irrigation"
+        ],
+        "organic": [
+            "Sulfur sprays",
+            "Neem oil application"
+        ],
+        "chemical": [
+            "Apply myclobutanil fungicide"
+        ],
+        "notes": "Treat early in the season for best control"
+    },
+    "Cherry_(including_sour)___healthy": {
+        "preventive": [
+            "Monitor trees regularly",
+            "Maintain orchard sanitation"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "preventive": [
+            "Rotate with non-host crops",
+            "Use resistant hybrids"
+        ],
+        "organic": [
+            "Compost tea sprays",
+            "Neem oil application"
+        ],
+        "chemical": [
+            "Apply fungicides containing strobilurins or triazoles"
+        ],
+        "notes": "Scout fields regularly during humid conditions"
+    },
+    "Corn_(maize)___Common_rust_": {
+        "preventive": [
+            "Plant resistant hybrids",
+            "Practice crop rotation"
+        ],
+        "organic": [
+            "Neem oil spray"
+        ],
+        "chemical": [
+            "Use fungicides with strobilurins"
+        ],
+        "notes": "Fungicide application most effective early in infection"
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "preventive": [
+            "Plant resistant varieties",
+            "Rotate crops with non-hosts"
+        ],
+        "organic": [
+            "Neem oil foliar spray"
+        ],
+        "chemical": [
+            "Fungicides with strobilurins or triazoles"
+        ],
+        "notes": "Remove and destroy infected residue"
+    },
+    "Corn_(maize)___healthy": {
+        "preventive": [
+            "Regular crop monitoring",
+            "Balanced fertilization"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Grape___Black_rot": {
+        "preventive": [
+            "Remove mummified grapes",
+            "Prune infected shoots"
+        ],
+        "organic": [
+            "Sulfur sprays",
+            "Neem oil application"
+        ],
+        "chemical": [
+            "Apply Mancozeb or Captan fungicides"
+        ],
+        "notes": "Spray program should begin early in the growing season"
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "preventive": [
+            "Prune infected vines",
+            "Avoid wounding plants unnecessarily"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No effective chemical treatment available"
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "preventive": [
+            "Improve vineyard airflow",
+            "Practice sanitation"
+        ],
+        "organic": [
+            "Neem oil sprays"
+        ],
+        "chemical": [
+            "Copper-based fungicides as needed"
+        ],
+        "notes": "Remove heavily infected leaves"
+    },
+    "Grape___healthy": {
+        "preventive": [
+            "Regular pruning",
+            "Balanced irrigation"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "preventive": [
+            "Control psyllid populations",
+            "Use certified disease-free saplings"
+        ],
+        "organic": [
+            "Neem oil sprays for psyllid control"
+        ],
+        "chemical": [
+            "Imidacloprid or thiamethoxam for vector control"
+        ],
+        "notes": "Remove and destroy infected trees immediately"
+    },
+    "Peach___Bacterial_spot": {
+        "preventive": [
+            "Use resistant cultivars",
+            "Avoid overhead irrigation"
+        ],
+        "organic": [
+            "Copper-based sprays"
+        ],
+        "chemical": [
+            "Apply oxytetracycline sprays"
+        ],
+        "notes": "Prune and remove infected twigs"
+    },
+    "Peach___healthy": {
+        "preventive": [
+            "Monitor orchards regularly",
+            "Maintain soil fertility"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Raspberry___healthy": {
+        "preventive": [
+            "Monitor regularly for pests and diseases",
+            "Maintain proper spacing"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Soybean___healthy": {
+        "preventive": [
+            "Rotate crops with cereals",
+            "Monitor for early disease symptoms"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Squash___Powdery_mildew": {
+        "preventive": [
+            "Plant resistant varieties",
+            "Avoid overhead irrigation"
+        ],
+        "organic": [
+            "Potassium bicarbonate sprays",
+            "Neem oil applications"
+        ],
+        "chemical": [
+            "Apply myclobutanil or sulfur fungicides"
+        ],
+        "notes": "Treat early at first sign of infection"
+    },
+    "Strawberry___Leaf_scorch": {
+        "preventive": [
+            "Avoid overhead irrigation",
+            "Remove infected leaves"
+        ],
+        "organic": [
+            "Neem oil sprays"
+        ],
+        "chemical": [
+            "Use fungicides containing Captan"
+        ],
+        "notes": "Sanitation reduces severity"
+    },
+    "Strawberry___healthy": {
+        "preventive": [
+            "Proper spacing for airflow",
+            "Balanced fertilization"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    },
+    "Tomato___Bacterial_spot": {
+        "preventive": [
+            "Use certified seeds",
+            "Avoid overhead watering"
+        ],
+        "organic": [
+            "Neem oil sprays",
+            "Copper hydroxide sprays"
+        ],
+        "chemical": [
+            "Copper bactericides",
+            "Streptomycin sprays where allowed"
+        ],
+        "notes": "Sanitize tools regularly"
+    },
+    "Tomato___Early_blight": {
+        "preventive": [
+            "Crop rotation for 2\u20133 years",
+            "Remove crop debris"
+        ],
+        "organic": [
+            "Neem oil sprays",
+            "Compost tea sprays"
+        ],
+        "chemical": [
+            "Mancozeb fungicide 2g/liter",
+            "Chlorothalonil spray as labeled"
+        ],
+        "notes": "Start sprays early in season"
+    },
+    "Tomato___Late_blight": {
+        "preventive": [
+            "Good airflow and drainage",
+            "Avoid overhead irrigation"
+        ],
+        "organic": [
+            "Copper-based organic sprays"
+        ],
+        "chemical": [
+            "Metalaxyl + Mancozeb fungicide",
+            "Repeat treatments after rainfall"
+        ],
+        "notes": "Remove infected plants promptly"
+    },
+    "Tomato___Leaf_Mold": {
+        "preventive": [
+            "Reduce humidity in greenhouse",
+            "Improve ventilation"
+        ],
+        "organic": [
+            "Neem oil sprays",
+            "Potassium bicarbonate solution"
+        ],
+        "chemical": [
+            "Chlorothalonil fungicide",
+            "Copper formulations"
+        ],
+        "notes": "Treat early for effectiveness"
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "preventive": [
+            "Rotate crops",
+            "Remove lower leaves showing symptoms"
+        ],
+        "organic": [
+            "Neem oil",
+            "Compost tea sprays"
+        ],
+        "chemical": [
+            "Mancozeb fungicide",
+            "Chlorothalonil sprays"
+        ],
+        "notes": "Infections begin on lower leaves"
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "preventive": [
+            "Maintain irrigation",
+            "Encourage beneficial insects"
+        ],
+        "organic": [
+            "Neem oil sprays",
+            "Insecticidal soap applications"
+        ],
+        "chemical": [
+            "Acaricides (Abamectin, Spiromesifen)"
+        ],
+        "notes": "Check undersides of leaves frequently"
+    },
+    "Tomato___Target_Spot": {
+        "preventive": [
+            "Crop rotation",
+            "Improve field sanitation"
+        ],
+        "organic": [
+            "Neem oil sprays",
+            "Compost tea foliar application"
+        ],
+        "chemical": [
+            "Mancozeb sprays",
+            "Chlorothalonil if needed"
+        ],
+        "notes": "Severe under high humidity"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "preventive": [
+            "Control whiteflies",
+            "Use resistant varieties"
+        ],
+        "organic": [
+            "Neem oil sprays for whitefly control"
+        ],
+        "chemical": [
+            "Imidacloprid, Thiamethoxam for whitefly management"
+        ],
+        "notes": "Remove and destroy infected plants immediately"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "preventive": [
+            "Use resistant cultivars",
+            "Disinfect tools regularly"
+        ],
+        "organic": [
+            "Compost tea sprays to boost plant health"
+        ],
+        "chemical": [],
+        "notes": "No direct chemical treatment available"
+    },
+    "Tomato___healthy": {
+        "preventive": [
+            "Monitor regularly",
+            "Balanced fertilizer application"
+        ],
+        "organic": [],
+        "chemical": [],
+        "notes": "No treatment required"
+    }
+}
